@@ -51,6 +51,7 @@ void getTemp()
   showRGB(averageTemp);
 }
 
+// showRGB function adapted from a Sparkfun example
 void showRGB(int color)
 {
   int redBrightness;
